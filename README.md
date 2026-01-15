@@ -145,9 +145,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Myanmar Tectonic Map 2011 contributors for fault line data
 
 ## 👤 Author
+    - GeoNet Myanmar
+    - Email: geonet.myanmar@gmail.com
 
 Created for seismic monitoring and research purposes.
 
 ---
 
 **⚠️ Disclaimer**: This dashboard is for educational and research purposes. For official earthquake information, please refer to the USGS or your local seismological authority.
+
